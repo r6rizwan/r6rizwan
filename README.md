@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Rizwan Mulla
 
-**Flutter Developer | Clean Architecture | Pixel-Perfect UI**
+**Flutter Developer | MERN Stack | Clean Architecture | Pixel-Perfect UI**
 
-I’m a Flutter developer passionate about building **clean, scalable, and user-friendly mobile applications**.  
+I’m a Flutter developer with **full-stack experience**, passionate about building **clean, scalable, and user-friendly applications**.  
 I enjoy turning complex problems into **simple, intuitive experiences** using modern technologies.
 
 ---
@@ -11,37 +11,37 @@ I enjoy turning complex problems into **simple, intuitive experiences** using mo
 - Building **production-ready Flutter applications**
 - Secure authentication & **clean architecture**
 - Performance optimisation and **scalable app structures**
-- Creating polished UI/UX with attention to **every pixel**
+- Full-stack apps using **MERN (MongoDB, Express, React, Node.js)**
 
 ---
 
 ## 🤝 Open To Collaborate On
 - Flutter & Dart projects  
-- Open-source mobile applications  
-- Startup ideas focused on **real-world problem solving**
+- Full-stack **MERN applications**  
+- Open-source mobile apps and startup ideas solving real-world problems
 
 ---
 
 ## 🧠 Looking For Help With
 - Advanced Flutter animations  
 - Mobile app security best practices  
-- Backend scalability for mobile applications  
+- Backend scalability for mobile & web apps  
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced Flutter (Riverpod, Clean Architecture)
 - Firebase performance & cost optimisation
-- Full-stack integration using **MERN**
+- Scalable backend patterns in **Node.js & MongoDB**
 
 ---
 
 ## 💬 Ask Me About
 - Flutter & Dart  
-- Mobile App Development  
+- React & MERN Stack  
+- Mobile & Web App Development  
 - UI/UX Design  
-- Firebase & API integration  
-- App performance optimisation  
+- Firebase, REST APIs & performance optimisation  
 
 ---
 
@@ -59,15 +59,22 @@ I enjoy refining UI details more than adding new features —
 
 ## 💻 Tech Stack
 
-### 🚀 Primary
+### 🚀 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### 🌐 Backend & Web
+### 🌐 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+
+### 🔧 Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)
 
