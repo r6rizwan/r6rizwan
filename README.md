@@ -1,99 +1,94 @@
-## 👋 Hi, I’m Rizwan Mulla
+# Hi, I'm Rizwan Mulla 👋
 
-**Flutter Developer | MERN Stack | Clean Architecture | Pixel-Perfect UI**
+**Flutter Developer · Full-Stack MERN · AI-Integrated App Development**
 
-I’m a Flutter developer with **full-stack experience**, passionate about building **clean, scalable, and user-friendly applications**.  
-I enjoy turning complex problems into **simple, intuitive experiences** using modern technologies.
+I build cross-platform mobile apps and full-stack web products — with a focus on clean architecture, security-first backends, and AI-integrated features. 3+ years of production Flutter experience, extended into MERN and LLM tooling.
 
----
+🟢 **Open to Flutter & Full-Stack roles — On-site · Remote · Relocation**
 
-## 🚀 What I’m Working On
-- Building **production-ready Flutter applications**
-- Secure authentication & **clean architecture**
-- Performance optimisation and **scalable app structures**
-- Full-stack apps using **MERN (MongoDB, Express, React, Node.js)**
+📬 rizwanmulla6@gmail.com · [LinkedIn](https://linkedin.com/in/rizwan-r-mulla) · [Portfolio](https://rizwanmulla.dev) · WhatsApp: +91 96200 57555
 
 ---
 
-## 🤝 Open To Collaborate On
-- Flutter & Dart projects  
-- Full-stack **MERN applications**  
-- Open-source mobile apps and startup ideas solving real-world problems
+## 🛠 What I Build
+
+- **Mobile apps** — Flutter + Dart + Riverpod + Firebase, shipped to Google Play
+- **Full-stack web** — React + Node.js + Express + MongoDB/MySQL with JWT-secured APIs
+- **AI-integrated features** — OpenAI API integration into mobile and web workflows
+- **Secure backends** — OTP flows, rate limiting, bcrypt, role-based access control
 
 ---
 
-## 🧠 Looking For Help With
-- Advanced Flutter animations  
-- Mobile app security best practices  
-- Backend scalability for mobile & web apps  
+## 🚀 Featured Projects
 
----
-
-## 🌱 Currently Learning
-- Advanced Flutter (Riverpod, Clean Architecture)
-- Firebase performance & cost optimisation
-- Scalable backend patterns in **Node.js & MongoDB**
-
----
-
-## 💬 Ask Me About
-- Flutter & Dart  
-- React & MERN Stack  
-- Mobile & Web App Development  
-- UI/UX Design  
-- Firebase, REST APIs & performance optimisation  
-
----
-
-## ⚡ Fun Fact
-I enjoy refining UI details more than adding new features —  
-**pixel perfection matters** 😄
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwan-r-mulla)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizwanmulla6@gmail.com)
+| Project | Stack | Links |
+|---|---|---|
+| **IronVault** — Offline password manager with AES encryption, biometric auth, PIN + recovery-key flows | Flutter · Dart · Riverpod · Drift · AES | [GitHub](https://github.com/r6rizwan/Password-Manager) |
+| **NexBrief** — AI meeting summarizer. Transforms transcripts into structured key points, decisions & action items | Flutter · OpenAI API · Dart | [GitHub](https://github.com/r6rizwan/nexbrief) |
+| **Crime Report Portal** — MERN role-based complaint system with AI-assisted case triage | React · Node.js · MongoDB · JWT · OpenAI | [GitHub](https://github.com/r6rizwan/Crime-Report) |
+| **ShopSphere** — Full-stack eCommerce with User/Admin/Super Admin roles + Razorpay integration | React · Node.js · MySQL · JWT · Razorpay | [GitHub](https://github.com/r6rizwan/Ecommerce-Website) |
+| **TickIt** — Task management app with smart due dates and Firebase sync | Flutter · Firebase · Riverpod | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.tickit) |
+| **WizApp** — Real-time inventory tracking for SME retail and logistics | Flutter · Node.js · MySQL · REST API | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.mobile_wizapp) |
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Mobile
+**Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Frontend
+**Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### 🔧 Backend
+**Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge&logo=files&logoColor=white)
 
-### 🗄 Databases
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)
 
-### 🛠 Tools & Platforms
+**AI & Tools**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/Prompt%20Engineering-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+**Tools & Platforms**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+
+---
+
+## 📈 Currently Focused On
+
+- Integrating **OpenAI API** into Flutter and MERN projects
+- **AI-assisted backend features** — smart triage, LLM-powered workflows
+- **Security hardening** — rate limiting, OTP flows, enumeration prevention
+- Building products across **fintech, eCommerce, and logistics verticals**
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=r6rizwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=r6rizwan&theme=dark&hide_border=false)
+[![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r6rizwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/r6rizwan)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r6rizwan&theme=dark&hide_border=false&layout=compact)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=r6rizwan&theme=dark&hide_border=false)](https://github.com/r6rizwan)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=r6rizwan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r6rizwan&theme=dark&hide_border=false&layout=compact)](https://github.com/r6rizwan)
