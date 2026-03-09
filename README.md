@@ -87,8 +87,8 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 ## 📊 GitHub Stats
 
-[![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r6rizwan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/r6rizwan)
+[![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r6rizwan&theme=dark&show_icons=true&hide_border=false)](https://github.com/r6rizwan)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=r6rizwan&theme=dark&hide_border=false)](https://github.com/r6rizwan)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r6rizwan&theme=dark&hide_border=false&layout=compact)](https://github.com/r6rizwan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r6rizwan&theme=dark&layout=compact&langs_count=6)](https://github.com/r6rizwan)
