@@ -6,7 +6,7 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 🟢 **Open to Flutter & Full-Stack roles — On-site · Remote · Relocation**
 
-📬 rizwanmulla6@gmail.com · [LinkedIn](https://linkedin.com/in/rizwan-r-mulla) · [Portfolio](https://rizwanmulla.dev) · WhatsApp: +91 96200 57555
+📬 rizwanmulla6@gmail.com · [LinkedIn](https://linkedin.com/in/rizwan-r-mulla) · [Portfolio](https://r6rizwan.github.io/Rizwan-Mulla-Portfolio/) · WhatsApp: +91 96200 57555
 
 ---
 
