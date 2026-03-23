@@ -87,6 +87,6 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=r6rizwan&theme=dark&hide_border=false)](https://github.com/r6rizwan)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=r6rizwan&theme=dark&hide_border=false)](https://github.com/r6rizwan)
 
 ---
