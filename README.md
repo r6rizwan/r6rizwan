@@ -6,7 +6,7 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 🟢 **Open to Flutter & Full-Stack roles — On-site · Remote · Relocation**
 
-📬 rizwanmulla6@gmail.com · [LinkedIn](https://linkedin.com/in/rizwan-r-mulla) · [Portfolio](https://r6rizwan.github.io/Rizwan-Mulla-Portfolio/) · WhatsApp: +91 96200 57555
+📬 rizwanmulla6@gmail.com · [LinkedIn](https://linkedin.com/in/rizwan-r-mulla) · [Portfolio](https://rizwan-mulla-portfolio.vercel.app/) · WhatsApp: +91 96200 57555
 
 ---
 
@@ -14,7 +14,7 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 - **Mobile apps** — Flutter + Dart + Riverpod + Firebase, shipped to Google Play
 - **Full-stack web** — React + Node.js + Express + MongoDB/MySQL with JWT-secured APIs
-- **AI-integrated features** — OpenAI API integration into mobile and web workflows
+- **AI-integrated features** — OpenAI, Gemini & Groq API integration into mobile and web workflows
 - **Secure backends** — OTP flows, rate limiting, bcrypt, role-based access control
 
 ---
@@ -23,10 +23,11 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 | Project | Stack | Links |
 |---|---|---|
-| **IronVault** — Offline password manager with AES encryption, biometric auth, PIN + recovery-key flows | Flutter · Dart · Riverpod · Drift · AES | [GitHub](https://github.com/r6rizwan/Password-Manager) |
+| **IronVault** — Offline password manager with AES-GCM encryption, biometric auth, PIN + recovery-key flows | Flutter · Dart · Riverpod · Drift | [GitHub](https://github.com/r6rizwan/IronVault) |
 | **NexBrief** — AI meeting summarizer. Transforms transcripts into structured key points, decisions & action items | Flutter · OpenAI API · Dart | [GitHub](https://github.com/r6rizwan/nexbrief) |
-| **Crime Report Portal** — MERN role-based complaint system with AI-assisted case triage | React · Node.js · MongoDB · JWT · OpenAI | [GitHub](https://github.com/r6rizwan/Crime-Report) |
-| **ShopSphere** — Full-stack eCommerce with User/Admin/Super Admin roles + Razorpay integration | React · Node.js · MySQL · JWT · Razorpay | [GitHub](https://github.com/r6rizwan/Ecommerce-Website) |
+| **CivilEye** — MERN role-based complaint management system with 4 user roles, 51 API endpoints & protected routes | React · Node.js · MongoDB · JWT | [GitHub](https://github.com/r6rizwan/CivilEye) |
+| **ShopSphere** — Full-stack eCommerce with User/Admin/Super Admin roles + Razorpay integration | React · Node.js · MySQL · JWT · Razorpay | [GitHub](https://github.com/r6rizwan/ShopSphere-Ecommerce-Website) |
+| **MPD** — CA service management app built during professional tenure; offline-first with role-based workflows | Flutter · Dart · REST API | Professional Project |
 | **TickIt** — Task management app with smart due dates and Firebase sync | Flutter · Firebase · Riverpod | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.tickit) |
 | **WizApp** — Real-time inventory tracking for SME retail and logistics | Flutter · Node.js · MySQL · REST API | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.mobile_wizapp) |
 
@@ -60,9 +61,11 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)
 
-**AI & Tools**
+**AI & LLM Tooling**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/Prompt%20Engineering-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge&logo=htmx&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
@@ -78,8 +81,8 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 ## 📈 Currently Focused On
 
-- Integrating **OpenAI API** into Flutter and MERN projects
-- **AI-assisted backend features** — smart triage, LLM-powered workflows
+- Integrating **Gemini & Groq APIs** into Flutter and MERN projects
+- **On-device AI experimentation** — local LLM inference with LM Studio
 - **Security hardening** — rate limiting, OTP flows, enumeration prevention
 - Building products across **fintech, eCommerce, and logistics verticals**
 
