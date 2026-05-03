@@ -30,6 +30,7 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 | **MPD** — CA service management app built during professional tenure; offline-first with role-based workflows | Flutter · Dart · REST API | Professional Project |
 | **TickIt** — Task management app with smart due dates and Firebase sync | Flutter · Firebase · Riverpod | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.tickit) |
 | **WizApp** — Real-time inventory tracking for SME retail and logistics | Flutter · Node.js · MySQL · REST API | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.mobile_wizapp) |
+| **DSA Grind** — AI-powered DSA learning app with structured progression, Monaco editor, hint system, and Groq-powered tutor | React · Node.js · MongoDB · Groq API | [GitHub](https://github.com/r6rizwan/DSA-Grind) |
 
 ---
 
