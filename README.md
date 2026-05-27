@@ -23,14 +23,13 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 | Project | Stack | Links |
 |---|---|---|
-| **IronVault** — Offline password manager with AES-GCM encryption, biometric auth, PIN + recovery-key flows | Flutter · Dart · Riverpod · Drift | [GitHub](https://github.com/r6rizwan/IronVault) |
-| **NexBrief** — AI meeting summarizer. Transforms transcripts into structured key points, decisions & action items | Flutter · OpenAI API · Dart | [GitHub](https://github.com/r6rizwan/nexbrief) |
-| **CivilEye** — MERN role-based complaint management system with 4 user roles, 51 API endpoints & protected routes | React · Node.js · MongoDB · JWT | [GitHub](https://github.com/r6rizwan/CivilEye) |
-| **ShopSphere** — Full-stack eCommerce with User/Admin/Super Admin roles + Razorpay integration | React · Node.js · MySQL · JWT · Razorpay | [GitHub](https://github.com/r6rizwan/ShopSphere-Ecommerce-Website) |
-| **MPD** — CA service management app built during professional tenure; offline-first with role-based workflows | Flutter · Dart · REST API | Professional Project |
+| **Zarf** — B2B expense management platform for UAE/GCC SMEs. Groq AI receipt OCR, VAT-aware (UAE 5% / Saudi 15%), AED conversion, JWT refresh rotation, CSP/HSTS | Flutter · React · Node.js · MongoDB · Groq API · Cloudinary | [GitHub](https://github.com/r6rizwan/Zarf) · [Live](https://zarf-cyan.vercel.app) |
+| **IronVault** — Offline-first secure vault with AES-GCM encryption, biometric + PIN auth, AutoLock, and recovery key flows | Flutter · Dart · Riverpod · Drift · AES-GCM | [GitHub](https://github.com/r6rizwan/IronVault) |
+| **CivilEye** — MERN role-based complaint management system with 4 user roles, 51 API endpoints, protected routes & Groq AI triage | React · Node.js · MongoDB · JWT · Groq API | [GitHub](https://github.com/r6rizwan/CivilEye) |
+| **ShopSphere** — Full-stack eCommerce with User/Admin/Super Admin roles, OTP password reset & Razorpay integration | React · Node.js · MySQL · JWT · Razorpay | [GitHub](https://github.com/r6rizwan/ShopSphere-Ecommerce-Website) |
+| **MPD** — CA service management app built during professional tenure; Firebase sync, push notifications, 3 production releases | Flutter · Dart · Firebase · Provider | Professional Project |
 | **TickIt** — Task management app with smart due dates and Firebase sync | Flutter · Firebase · Riverpod | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.tickit) |
 | **WizApp** — Real-time inventory tracking for SME retail and logistics | Flutter · Node.js · MySQL · REST API | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.mobile_wizapp) |
-| **DSA Grind** — AI-powered DSA learning app with structured progression, Monaco editor, hint system, and Groq-powered tutor | React · Node.js · MongoDB · Groq API | [GitHub](https://github.com/r6rizwan/DSA-Grind) |
 
 ---
 
@@ -45,8 +44,9 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 **Backend**
@@ -82,10 +82,10 @@ I build cross-platform mobile apps and full-stack web products — with a focus 
 
 ## 📈 Currently Focused On
 
-- Integrating **Gemini & Groq APIs** into Flutter and MERN projects
-- **On-device AI experimentation** — local LLM inference with LM Studio
-- **Security hardening** — rate limiting, OTP flows, enumeration prevention
-- Building products across **fintech, eCommerce, and logistics verticals**
+- Building a **FastAPI + Docker + Kubernetes + AWS** portfolio project for GCC market readiness
+- **AWS AI Practitioner (AIF-C01)** certification — active prep
+- **LLM integration patterns** — RAG pipelines, agentic workflows, Groq + LangChain
+- Expanding into **GCC markets** — UAE, KSA, Qatar Flutter + full-stack roles
 
 ---
 
