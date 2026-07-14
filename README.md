@@ -51,15 +51,6 @@
 | **WizApp** | Retail operations app with barcode scanning, stock lookup, reporting flows, and internal business workflow support | Flutter · Riverpod · REST APIs · SharedPreferences | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.mobile_wizapp) |
 | **MPD** | Flutter service-management app for Chartered Accountants with structured request tracking, Firebase sync, and daily workflow support | Flutter · Firebase · Provider · Dart | Professional Project |
 
-<p align="center">
-  <a href="https://github.com/r6rizwan/Zarf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=Zarf&theme=tokyonight" alt="Zarf repo card" /></a>
-  <a href="https://github.com/r6rizwan/Raha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=Raha&theme=tokyonight" alt="Raha repo card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/r6rizwan/IronVault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=IronVault&theme=tokyonight" alt="IronVault repo card" /></a>
-  <a href="https://github.com/r6rizwan/CivilEye"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=CivilEye&theme=tokyonight" alt="CivilEye repo card" /></a>
-</p>
-
 ---
 
 ## Core Stack
