@@ -1,96 +1,102 @@
-# Hi, I'm Rizwan Mulla 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:2563eb,100:7c3aed&height=220&section=header&text=Rizwan%20Mulla&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter-first%20Engineer%20%7C%20MERN%20%7C%20AI-integrated%20Products&descAlignY=58" alt="Rizwan Mulla banner" />
+</p>
 
-**Flutter Developer · Full-Stack MERN · AI-Integrated App Development**
+<h1>Building production mobile apps with Flutter, backend depth, and AI-integrated workflows 👋</h1>
 
-I build cross-platform mobile apps and full-stack web products — with a focus on clean architecture, security-first backends, and AI-integrated features. 3+ years of production Flutter experience, extended into MERN and LLM tooling.
+<p><strong>Flutter-first Engineer building production mobile apps, secure backend integrations, and AI-powered product workflows.</strong></p>
 
-🟢 **Open to Flutter & Full-Stack roles — On-site · Remote · Relocation**
+<p>I build scalable Flutter apps with feature-first architecture, reliable API integration, and product flows designed for real users. I bring <strong>3+ years of production mobile experience</strong>, with MERN and AI integration as strong supporting strengths.</p>
 
-📬 rizwanmulla6@gmail.com · [LinkedIn](https://linkedin.com/in/rizwan-r-mulla) · [Portfolio](https://rizwan-mulla-portfolio.vercel.app/) · WhatsApp: +91 96200 57555
+<p>
+  <a href="mailto:rizwanmulla6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/rizwan-r-mulla"><img src="https://img.shields.io/badge/LinkedIn-Rizwan%20Mulla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://rizwan-mulla-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
----
-
-## 🛠 What I Build
-
-- **Mobile apps** — Flutter + Dart + Riverpod + Firebase, shipped to Google Play
-- **Full-stack web** — React + Node.js + Express + MongoDB/MySQL with JWT-secured APIs
-- **AI-integrated features** — OpenAI, Gemini & Groq API integration into mobile and web workflows
-- **Secure backends** — OTP flows, rate limiting, bcrypt, role-based access control
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Links |
-|---|---|---|
-| **Zarf** — B2B expense management platform for UAE/GCC SMEs. Groq AI receipt OCR, VAT-aware (UAE 5% / Saudi 15%), AED conversion, JWT refresh rotation, CSP/HSTS | Flutter · React · Node.js · MongoDB · Groq API · Cloudinary | [GitHub](https://github.com/r6rizwan/Zarf) · [Live](https://zarf-cyan.vercel.app) |
-| **IronVault** — Offline-first secure vault with AES-GCM encryption, biometric + PIN auth, AutoLock, and recovery key flows | Flutter · Dart · Riverpod · Drift · AES-GCM | [GitHub](https://github.com/r6rizwan/IronVault) |
-| **CivilEye** — MERN role-based complaint management system with 4 user roles, 51 API endpoints, protected routes & Groq AI triage | React · Node.js · MongoDB · JWT · Groq API | [GitHub](https://github.com/r6rizwan/CivilEye) |
-| **ShopSphere** — Full-stack eCommerce with User/Admin/Super Admin roles, OTP password reset & Razorpay integration | React · Node.js · MySQL · JWT · Razorpay | [GitHub](https://github.com/r6rizwan/ShopSphere-Ecommerce-Website) |
-| **MPD** — CA service management app built during professional tenure; Firebase sync, push notifications, 3 production releases | Flutter · Dart · Firebase · Provider | Professional Project |
-| **TickIt** — Task management app with smart due dates and Firebase sync | Flutter · Firebase · Riverpod | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.tickit) |
-| **WizApp** — Real-time inventory tracking for SME retail and logistics | Flutter · Node.js · MySQL · REST API | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.mobile_wizapp) |
+<p>🟢 <strong>Open to Flutter, Mobile Engineer, and Flutter + Full-Stack roles — On-site · Remote · Relocation</strong></p>
 
 ---
 
-## 💻 Tech Stack
+## Quick Proof
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-**Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge&logo=files&logoColor=white)
-
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)
-
-**AI & LLM Tooling**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge&logo=htmx&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-**Tools & Platforms**
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><strong>3+ Years</strong><br/>Production Flutter</td>
+    <td align="center"><strong>Shipped Apps</strong><br/>Play Store + business workflows</td>
+    <td align="center"><strong>Architecture</strong><br/>Riverpod, Firebase, REST, auth</td>
+    <td align="center"><strong>AI Integration</strong><br/>OpenAI, Gemini, Groq</td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Currently Focused On
+## Why Hire Me
 
-- Building a **FastAPI + Docker + Kubernetes + AWS** portfolio project for GCC market readiness
-- **AWS AI Practitioner (AIF-C01)** certification — active prep
-- **LLM integration patterns** — RAG pipelines, agentic workflows, Groq + LangChain
-- Expanding into **GCC markets** — UAE, KSA, Qatar Flutter + full-stack roles
+- **Production Flutter experience** across service management, ticketing, inventory, and secure local-storage products
+- **Shipped app mindset** with Play Store releases, QA cycles, post-release fixes, and real operational workflows
+- **Architecture-first approach** using Riverpod, Provider, Firebase, REST APIs, auth/session handling, and offline-first patterns
+- **Full-stack product context** through MERN builds that strengthen API design, secure auth, and backend collaboration
+
+---
+
+## Featured Projects
+
+| Project | Snapshot | Stack | Links |
+|---|---|---|---|
+| **Zarf** | B2B expense platform for UAE/GCC SMEs with AI receipt OCR, VAT/TRN-aware flows, and a three-tier product architecture | Flutter · React · Node.js · MongoDB · Groq API | [GitHub](https://github.com/r6rizwan/Zarf) · [Live](https://zarf-cyan.vercel.app) |
+| **Raha** | Flutter + Node.js app for GCC expats with Gemini-powered food and service recommendations across multiple cities | Flutter · Riverpod · Node.js · MongoDB · Gemini AI | [GitHub](https://github.com/r6rizwan/Raha) |
+| **IronVault** | Offline-first secure vault with local encryption, recovery flows, auto-lock behavior, and layered Flutter architecture | Flutter · Dart · Riverpod · Drift · SQLite | [GitHub](https://github.com/r6rizwan/IronVault) |
+| **TickIt** | Production ticket-management app with role-based flows, live updates, notifications, and real organizational workflows | Flutter · Riverpod · REST APIs · WebSocket · Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.tickit) |
+| **WizApp** | Retail operations app with barcode scanning, stock lookup, reporting flows, and internal business workflow support | Flutter · Riverpod · REST APIs · SharedPreferences | [Play Store](https://play.google.com/store/apps/details?id=com.softinfo.mobile_wizapp) |
+| **MPD** | Flutter service-management app for Chartered Accountants with structured request tracking, Firebase sync, and daily workflow support | Flutter · Firebase · Provider · Dart | Professional Project |
+
+<p align="center">
+  <a href="https://github.com/r6rizwan/Zarf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=Zarf&theme=tokyonight" alt="Zarf repo card" /></a>
+  <a href="https://github.com/r6rizwan/Raha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=Raha&theme=tokyonight" alt="Raha repo card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/r6rizwan/IronVault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=IronVault&theme=tokyonight" alt="IronVault repo card" /></a>
+  <a href="https://github.com/r6rizwan/CivilEye"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r6rizwan&repo=CivilEye&theme=tokyonight" alt="CivilEye repo card" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## Core Stack
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=r6rizwan&theme=dark&hide_border=false)](https://github.com/r6rizwan)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=dart&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+</p>
 
 ---
+
+## Currently Focused On
+
+- Building Flutter apps with **clean architecture, secure auth, and production-ready mobile workflows**
+- Expanding **AI integration patterns** across Flutter and MERN products
+- Strengthening **backend and infrastructure depth** around APIs, CI/CD, and deployment workflows
+- Targeting **Flutter-first product teams** where mobile quality and full-stack awareness both matter
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r6rizwan&show_icons=true&theme=tokyonight&hide_border=true" alt="Rizwan GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r6rizwan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=r6rizwan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
