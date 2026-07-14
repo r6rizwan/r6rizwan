@@ -93,10 +93,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r6rizwan&show_icons=true&theme=tokyonight&hide_border=true" alt="Rizwan GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r6rizwan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=r6rizwan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
