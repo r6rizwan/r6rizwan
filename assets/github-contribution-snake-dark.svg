@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="56" viewBox="0 0 720 56" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake pending generation</title>
+  <desc id="desc">The contribution snake will appear after its GitHub Actions workflow runs.</desc>
+  <rect width="720" height="56" rx="8" fill="#161b22"/>
+  <circle cx="24" cy="28" r="6" fill="#2dd4bf"/>
+  <text x="42" y="33" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="15">Contribution snake initializes after the first workflow run.</text>
+</svg>
